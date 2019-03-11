@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.1.9' threshold='low' effort='max'><Error></Error><Project><SrcDir>F:\controller-master\opendaylight\md-sal\samples\toaster-provider\src\main\java</SrcDir><SrcDir>F:\controller-master\opendaylight\md-sal\samples\toaster-provider\target\generated-sources\mdsal-binding</SrcDir><SrcDir>F:\controller-master\opendaylight\md-sal\samples\toaster-provider\target\generated-sources\annotations</SrcDir><SrcDir>F:\controller-master\opendaylight\md-sal\samples\toaster-provider\src\test\java</SrcDir></Project></BugCollection>

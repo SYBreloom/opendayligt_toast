@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="clustering-it-config" />
+        <module name="clustering-it-model" />
+        <module name="clustering-it-provider" />
+        <module name="sample-toaster" />
+        <module name="sample-toaster-consumer" />
+        <module name="sample-toaster-it" />
+        <module name="sample-toaster-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clustering-it" target="1.5" />
+      <module name="clustering-it-config" target="1.5" />
+      <module name="clustering-it-model" target="1.8" />
+      <module name="clustering-it-provider" target="1.8" />
+      <module name="sal-samples" target="1.5" />
+      <module name="sample-toaster" target="1.8" />
+      <module name="sample-toaster-consumer" target="1.8" />
+      <module name="sample-toaster-it" target="1.8" />
+      <module name="sample-toaster-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

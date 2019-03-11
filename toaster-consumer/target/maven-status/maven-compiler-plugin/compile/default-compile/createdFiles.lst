@@ -1,0 +1,4 @@
+org\opendaylight\controller\sample\kitchen\impl\KitchenServiceImpl.class
+org\opendaylight\controller\sample\kitchen\api\KitchenService.class
+org\opendaylight\controller\sample\kitchen\api\EggsType.class
+org\opendaylight\controller\sample\kitchen\api\KitchenServiceRuntimeMXBean.class

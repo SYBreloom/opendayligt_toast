@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clustering-test-app/clustering-it.iml" filepath="$PROJECT_DIR$/clustering-test-app/clustering-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clustering-test-app/configuration/clustering-it-config.iml" filepath="$PROJECT_DIR$/clustering-test-app/configuration/clustering-it-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clustering-test-app/model/clustering-it-model.iml" filepath="$PROJECT_DIR$/clustering-test-app/model/clustering-it-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clustering-test-app/provider/clustering-it-provider.iml" filepath="$PROJECT_DIR$/clustering-test-app/provider/clustering-it-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sal-samples.iml" filepath="$PROJECT_DIR$/sal-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toaster/sample-toaster.iml" filepath="$PROJECT_DIR$/toaster/sample-toaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toaster-consumer/sample-toaster-consumer.iml" filepath="$PROJECT_DIR$/toaster-consumer/sample-toaster-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toaster-it/sample-toaster-it.iml" filepath="$PROJECT_DIR$/toaster-it/sample-toaster-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toaster-provider/sample-toaster-provider.iml" filepath="$PROJECT_DIR$/toaster-provider/sample-toaster-provider.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1547036545602
+Build-Jdk: 1.8.0_20
+Built-By: ￦ﾲﾈ￦ﾯﾅ
+Bundle-Description: pom.xml for MD-SAL DOM plugins
+Bundle-DocURL: https://www.opendaylight.org
+Bundle-License: https://www.eclipse.org/legal/epl-v10.html
+Bundle-ManifestVersion: 2
+Bundle-Name: sample-toaster-consumer
+Bundle-SymbolicName: org.opendaylight.controller.samples.sample-toaster-
+ consumer
+Bundle-Vendor: OpenDaylight
+Bundle-Version: 1.9.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.opendaylight.controller.sample.kitchen.api;uses:="or
+ g.opendaylight.yang.gen.v1.http.netconfcentral.org.ns.toaster.rev091120
+ ,org.opendaylight.yangtools.yang.common";version="1.9.0"
+Import-Package: com.google.common.collect;version="[25.1,26)",com.google
+ .common.util.concurrent;version="[25.1,26)",org.opendaylight.controller
+ .md.sal.common.util.jmx;version="[1.9,2)",org.opendaylight.controller.s
+ ample.kitchen.api,org.opendaylight.yang.gen.v1.http.netconfcentral.org.
+ ns.toaster.rev091120;version="[1.9,2)",org.opendaylight.yangtools.yang.
+ common;version="[2.1,3)",org.slf4j;version="[1.7,2)"
+Include-Resource: org/opendaylight/blueprint/toaster-consumer.xml=src/ma
+ in/resources/org/opendaylight/blueprint/toaster-consumer.xml,F:\control
+ ler-master\opendaylight\md-sal\samples\toaster-consumer\target/classes/
+ LICENSE,META-INF/git.properties=-F:\controller-master\opendaylight\md-s
+ al\samples\toaster-consumer\target/classes/META-INF/git.properties
+Private-Package: org.opendaylight.controller.sample.kitchen.impl,org.ope
+ ndaylight.blueprint
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-4.1.0.201810181252

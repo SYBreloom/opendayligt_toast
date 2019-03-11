@@ -1,0 +1,7 @@
+#Wed Jan 09 20:22:18 CST 2019
+module-resource*?\:F\:\\controller-master\\opendaylight\\md-sal\\samples\\toaster-consumer\\target\\checkstyle-suppressions.xml=EE97A6736F94687719FF0D72FABB7DC6171B4659
+F\:\\controller-master\\opendaylight\\md-sal\\samples\\toaster-consumer\\src\\main\\java\\org\\opendaylight\\controller\\sample\\kitchen\\api\\EggsType.java=1546999231000
+F\:\\controller-master\\opendaylight\\md-sal\\samples\\toaster-consumer\\src\\main\\java\\org\\opendaylight\\controller\\sample\\kitchen\\impl\\KitchenServiceImpl.java=1546999231000
+F\:\\controller-master\\opendaylight\\md-sal\\samples\\toaster-consumer\\src\\main\\java\\org\\opendaylight\\controller\\sample\\kitchen\\api\\KitchenService.java=1546999231000
+F\:\\controller-master\\opendaylight\\md-sal\\samples\\toaster-consumer\\src\\main\\java\\org\\opendaylight\\controller\\sample\\kitchen\\api\\KitchenServiceRuntimeMXBean.java=1546999231000
+configuration*?=3632B3D55FB8786D42BE452445FE00F9DA117DAF
